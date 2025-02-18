@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on top tech companies.
 - 📫 How to reach me:-tanmayswain464@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i love coding & i devlope like web and app. enthusiast in AI.
+- ⚡ Fun fact: I love coding & I love to developing new things in tech industry . enthusiast in AI.
 
 <!---
 tanmayswain11/tanmayswain11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
